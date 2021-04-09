@@ -69,8 +69,4 @@ dependencies {
 
     // Timber logging
     implementation "com.jakewharton.timber:timber:4.7.1"
-
-    // ThreeTen Android Backport https://github.com/JakeWharton/ThreeTenABP
-    // support for java 8 datetime api for old API levels
-    implementation "com.jakewharton.threetenabp:threetenabp:1.2.1"
 }
